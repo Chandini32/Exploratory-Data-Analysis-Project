@@ -1,5 +1,5 @@
 # Exploratory-Data-Analysis-Project
-i had done a project on EDA for marketing the customer's data
+I had done a project on EDA for marketing the customer's data
 It includes : 
 
 ID： Customer's unique identifier
